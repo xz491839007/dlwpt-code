@@ -2,5 +2,6 @@
 tools
 *_old
 .idea
-.data-unversioned/
+/data-unversioned/*
+
 *.tar.gz
